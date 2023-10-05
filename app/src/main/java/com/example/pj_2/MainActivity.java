@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
     private static final int profile = 2; // Changed 'final static' to 'static final'
     private static final int favorite = 3; // Changed 'final static' to 'static final'
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
